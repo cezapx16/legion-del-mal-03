@@ -7,7 +7,7 @@
 ![Release](https://img.shields.io/github/v/release/cezapx16/legion-del-mal-03)
 ![Issues](https://img.shields.io/github/issues/cezapx16/legion-del-mal-03)
 ![Último commit](https://img.shields.io/github/last-commit/cezapx16/legion-del-mal-03)
-![Licencia](https://img.shields.io/github/license/cezapx16/legion-del-mal-03)
+![Licencia](https://img.shields.io/github/license/cezapx16/legion-del-mal-03?&cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
