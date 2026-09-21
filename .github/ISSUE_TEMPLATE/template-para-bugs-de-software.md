@@ -4,7 +4,7 @@ about: 'Ayudanos a mejorar '
 title: 'Bug: '
 labels: ''
 assignees: cezapx16
-type: Bug
+type: Task
 
 ---
 
