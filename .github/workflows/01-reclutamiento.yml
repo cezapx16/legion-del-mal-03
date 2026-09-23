@@ -1,0 +1,17 @@
+name:  Reclutamiento de Agente 
+
+on: push
+
+jobs:
+  reporte-de-reclutamiento:
+    runs-on : ubuntu-latest
+
+    steps:
+      -name:  El agente se presenta 
+      run: echo "Soy Ñex Luthor, y el lider de la Legion del Mal"
+      -name: Reporte de identidad
+       run : |
+       echo "Reporte de identidad"
+       echo "==============="
+       echo "  " 
+       echo "Nombre clave ${{ github.actor 3}}"
